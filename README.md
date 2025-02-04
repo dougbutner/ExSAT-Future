@@ -1,5 +1,5 @@
-# ExSAT-Future
-A think tank producing policy and code 🛠 ExSAT Hackathon Ideathon Entry
+# exSAT-Future
+A think tank producing policy and code 🛠 exSAT Hackathon Ideathon Entry
 
 
 # 🎤 View the [Presentation Deck](https://www.canva.com/design/DAGeFojaq28/cUBiI3IgAHa0U3wyk01Qsw/view?utm_content=DAGeFojaq28&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h00c35d4009)
