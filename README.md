@@ -2,8 +2,11 @@
 A think tank producing policy and code 🛠 ExSAT Hackathon Ideathon Entry
 
 
+# 🎤 View the [Presentation Deck](https://www.canva.com/design/DAGeFojaq28/cUBiI3IgAHa0U3wyk01Qsw/view?utm_content=DAGeFojaq28&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h00c35d4009)
+
+
 # Welcome
-### to planet earth
+### to Planet Earth 🌎
 
 
 Evolved from apes and aliens, humble humans emerged from caves to build the first permanent societies.
